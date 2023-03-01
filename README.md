@@ -5,3 +5,11 @@
 I'll meet you over there, can't wait to get started!
 
 This repository is licensed under [MIT](../LICENSE) (c) 2019 GitHub, Inc.
+
+# Here is a list of my hobbies:
+- Traveling
+- Reading
+- Climbing mountain
+- Hiking
+- Watching movie
+- Swimming
