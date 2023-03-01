@@ -6,3 +6,4 @@ Replace this with a list of your favorite things.
 - Singing
 - Watching movie
 - Swimming
+- Eating
