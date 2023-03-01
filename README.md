@@ -1,23 +1,25 @@
-# yisa's page-:sparkling_heart:
+# Welcome to my portfolio!
+#This is Yingshan
 
 
 # Here is a list of my hobbies:
 - Traveling
 - Reading
-- Climbing mountain
-- Hiking
+- Cooking
+- Singing
 - Watching movie
 - Swimming
-# Skills
+## _Skills
 
 Below is a list of my **technical skills**:
 
 ## _Programming Languages_
-- R (including Rattle)
+- R
 - Python
 - SQL
 
 ## _Softwares_
 - Sql Developer, Tableau
-- Github, Spyder
+- Power BI
+- Orange,JMP
 - Microsoft office products (excel, access, powerpoint, word)
